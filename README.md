@@ -90,23 +90,6 @@ base_sanitizada.csv
 
 Basta abrir o arquivo `index.html` em um navegador moderno.
 
-## Como publicar no GitHub Pages
-
-1. Crie um repositório público, por exemplo `porsche-sales-dashboard`.
-2. Envie `index.html`, `README.md` e `base_sanitizada.csv`.
-3. Entre em `Settings`.
-4. Acesse `Pages`.
-5. Em `Build and deployment`, selecione `Deploy from a branch`.
-6. Escolha a branch `main` e a pasta `/root`.
-7. Salve.
-8. Aguarde o GitHub gerar o endereço público.
-
-## Dashboard publicada
-
-Adicionar aqui depois da publicação:
-
-`https://SEU-USUARIO.github.io/porsche-sales-dashboard/`
-
 ## Observação
 
 Projeto acadêmico. A base utilizada é a versão sanitizada disponibilizada para o desafio da DIO.
